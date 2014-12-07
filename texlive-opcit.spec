@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-opcit
 Version:	1.1
-Release:	8
+Release:	9
 Summary:	Footnote-style bibliographical references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/opcit
