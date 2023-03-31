@@ -1,6 +1,6 @@
 Name:		texlive-opcit
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Footnote-style bibliographical references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/opcit
