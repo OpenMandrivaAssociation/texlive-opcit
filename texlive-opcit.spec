@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Footnote-style bibliographical references
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/opcit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/opcit
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/opcit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/opcit.doc.r%{version}.tar.xz
